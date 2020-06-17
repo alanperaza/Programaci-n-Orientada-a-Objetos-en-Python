@@ -1,2 +1,2 @@
-# Programaci-n-Orientada-a-Objetos-en-Python
+# Programación Orientada a Objetos en Python
 Introducción a POO en Python
